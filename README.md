@@ -2,7 +2,7 @@
 
 These are a few of my favorite things:
 
-- woah is this really here 
+- woah is this really here
 - Rain
 - Raindrops on roses
 - Whiskers on cute animals
@@ -10,3 +10,4 @@ These are a few of my favorite things:
 - Warm woolen mittens
 - Not editing directly on GitHub
 - lookie here
+- another thing at the end
